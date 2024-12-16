@@ -1,0 +1,15 @@
+*
+
+!*.java
+!*.h
+!*.c
+!makefile
+
+!*/
+
+!*.sql
+
+!*.html
+!*.css
+!*.jsp
+!*.js
